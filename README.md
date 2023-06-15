@@ -5,5 +5,4 @@ Is only for showing my knowledge in responsive development using: <br>
 [Link for this project](https://autstories.github.io/We-Care-Responsive/)<br><br>
 Screenshots of project:<br>
 <img src="https://raw.githubusercontent.com/AutStories/We-Care-Responsive/master/assets/desktop.png"><br>
-ALERT: this is a bug in a screenshot, no in website <br>
-<img src="https://raw.githubusercontent.com/AutStories/We-Care-Responsive/master/assets/mobile.png">
+<img src="https://raw.githubusercontent.com/AutStories/We-Care-Responsive/master/assets/mobileIphoneSE.png">
