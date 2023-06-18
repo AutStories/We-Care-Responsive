@@ -4,5 +4,5 @@ Is only for showing my knowledge in responsive development using: <br>
 
 [Link for this project](https://autstories.github.io/We-Care-Responsive/)<br><br>
 Screenshots of project:<br>
-<img src="https://raw.githubusercontent.com/AutStories/We-Care-Responsive/master/assets/desktop.png"><br>
-<img src="https://raw.githubusercontent.com/AutStories/We-Care-Responsive/master/assets/mobileIphoneSE.png">
+<img src="assets/desktop.png"><br>
+<img src="assets/mobileIphoneSE.png">
