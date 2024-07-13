@@ -90,7 +90,7 @@ button:active{
 .header-link:active{
     opacity: 0.8;
 }
-@media screen and (max-width: 390px ){
+@media screen and (max-width: 430px ){
     header{
         display: none;
     }
