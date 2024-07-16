@@ -91,6 +91,10 @@ button:active{
     opacity: 0.8;
 }
 @media screen and (max-width: 430px ){
+    * {
+        overflow-y: hidden; 
+        overflow-x: hidden;
+    }
     header{
         display: none;
     }
@@ -100,34 +104,34 @@ button:active{
 
     section{
         height: 40vh;
-        margin-left: 14px;
+        margin-left: 3.7333333333333334vw;
     }
     .img-logo{
         width: 80%;
         /* height: 60vh; */
-        margin: 149px auto 24px 32px;
+        margin: 7.496vh auto 3.598vh 8.533333333333333vw;
     }
 
     h1{
         width: 80%;
-        margin-left: 64px;
+        margin-left: 17.066666666666666vw;
         font-weight: 900;
-        font-size: 50px;
-        line-height: 61px;
+        font-size: 13.333333333333334vw;
+        line-height: 9.145vh;
     }
 
     h2{
         width: 80%;
         font-weight: 500;
-        font-size: 30px;
-        line-height: 37px;
-        margin-left: 64px;
+        font-size: 8vw;
+        line-height: 5.547vh;
+        margin-left: 17.066666666666666vw;
     }
     p{
         display: none;
     }
     .button-main{
         width: 70%;
-        margin: 17px 75px 133px 64px;
+        margin: 2.549vh 20vw 19.94vh 17.066666666666666vw;
     }
 }
